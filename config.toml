@@ -1,4 +1,4 @@
-baseURL = 'https://jieding.github.io/'
+baseURL = 'https://jieding.github.io/my-first-website/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
